@@ -245,14 +245,6 @@ td,th {
         width: 64px;
         height: 64px;
     }
-
-    .mongodb {
-        grid-area: 5 / 1 / 6 / 2;
-    }
-    
-    .python {
-        grid-area: 5 / 2 / 6 / 3;
-    }
     
 }
 
