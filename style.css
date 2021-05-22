@@ -116,8 +116,8 @@ dt {
     height: 200px;
     border-radius: 50%;
     background: url("./mine.jpg") no-repeat;
-    background-size: 300px 300px;
-    background-position-x: 10px;
+    background-size: 400px 400px;
+    background-position-x: 20px;
     /* border: 3px solid #585858; */
 }
 
